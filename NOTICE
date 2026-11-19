@@ -1,0 +1,7 @@
+Point SORT Tracker
+Original SORT: Copyright (C) 2016 Alex Bewley.
+Point-motion and distance-association adaptations: Copyright (c) 2020, 2026 Mahdi Kazemi Moghaddam.
+
+Based on SORT: https://github.com/abewley/sort
+Licensed under GPL-3.0-or-later; the original source notice is retained in tracker.py.
+Modified 2026-11-19: standalone release, modern SciPy assignment, scalar-array compatibility, and synthetic demonstration.
